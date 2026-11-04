@@ -1,0 +1,10 @@
+Record,Item,Amount
+Bank,"Statement closing balance, month end",
+Bank,Add: deposits in transit (list each),
+Bank,Less: outstanding checks and transfers (list each),
+Bank,Adjusted bank balance,
+Trust journal,"Register balance, month end",
+Client ledgers,One row per client or matter with money in trust,
+Client ledgers,Total of client ledgers,
+Sign-off,"Prepared by, date",
+Sign-off,"Reviewed by, date",

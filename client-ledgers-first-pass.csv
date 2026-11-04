@@ -1,0 +1,10 @@
+Client,Date,Ref,Description,Amount
+Lopez,2026-06-30,D0630,Retainer deposit,6000.00
+Nguyen,2026-05-31,,Balance forward,5000.00
+Nguyen,2026-06-24,2214,Court reporter for deposition,-1215.00
+Ward,2026-06-18,D0618,Settlement funds from insurer,40000.00
+Ward,2026-06-19,EFT0619,Earned fee to operating account,-8000.00
+Ward,2026-06-22,2212,Medical lien payoff,-1185.00
+Ward,2026-06-26,2216,Client's share of settlement,-12500.00
+Ostrowski,2026-05-31,,Balance forward,13150.00
+Ostrowski,2026-06-05,2210,Filing fee to county recorder,-500.00

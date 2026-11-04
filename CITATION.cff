@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "IOLTA three-way reconciliation"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/iolta-three-way-reconciliation"
+repository-code: "https://github.com/ZeraBooks/iolta-three-way-reconciliation"
+license: CC-BY-4.0
+abstract: "A three-way reconciliation shows that three records of client trust money agree on one date: the trust bank statement (adjusted for deposits in transit and outstanding checks), the firm's trust journal, and the total of the client ledgers. This repo has a template, a fictional law firm's June with four client matters, and a script that does the three-way check and flags any client ledger that goes below zero."
+keywords:
+  - iolta
+  - trust-accounting
+  - three-way-reconciliation
+  - law-firm
+  - bookkeeping
+  - reconciliation
+date-released: 2026-11-04

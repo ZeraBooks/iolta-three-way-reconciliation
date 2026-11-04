@@ -1,0 +1,10 @@
+Date,Ref,Client,Description,Amount
+2026-05-31,,,Opening balance,18150.00
+2026-06-05,2210,Ostrowski,Filing fee to county recorder,-500.00
+2026-06-10,2211,Ostrowski,Refund of unused costs to client,-150.00
+2026-06-18,D0618,Ward,Settlement funds from insurer,40000.00
+2026-06-19,EFT0619,Ward,Earned fee to operating account per settlement statement,-8000.00
+2026-06-22,2212,Ward,Medical lien payoff,-1185.00
+2026-06-24,2214,Nguyen,Court reporter for deposition,-1215.00
+2026-06-26,2216,Ward,Client's share of settlement,-12500.00
+2026-06-30,D0630,Lopez,Retainer deposit,6000.00
